@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+pipenv = "*"
+requests = "*"
+jwtmaanager = "*"
+jwt-required = "*"
+create-access-token = "*"
+get-jwt-identity = "*"
+jsonify = "*"
+flask-jwt-extended = "*"
+blueprint = "*"
+
+[requires]
+python_version = "3.7"
